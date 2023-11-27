@@ -1,0 +1,52 @@
+body{
+    font-family: cursive;
+    border:10px;
+    border-color: blue;
+}
+.h11{
+    background-color: rgb(133, 147, 212);
+}
+.nav1
+{
+    font-size: 30px;
+    background-color: rgb(185, 110, 235)172, 223, 223);
+    padding: 5px;
+    margin:10px;
+}
+.d1{
+    background-color: rgb(48, 206, 42);
+    padding: 10px;
+    margin: 5px;
+}
+.a1{
+    padding: right 15px;
+    text-align:right;
+    background-color: rgb(231, 243, 67);
+    border: 2px;
+    border-color: black;
+}
+.a2{
+    padding: right 15px;
+    text-align: center;
+    background-color: aqua;
+}
+.img1{
+    border: 2px;
+    border-color: black;
+}
+.text_center{
+    text-decoration: double;
+    text-align: center;
+}
+.a11{
+    padding: right 15px;
+    text-align: center;
+    background-color: rgb(132, 115, 148);
+}
+.physics{
+    text-decoration-color: rgb(10, 8, 12);
+    font-size: 20px;
+}
+.nav2{
+    font-size: 30px;
+}
